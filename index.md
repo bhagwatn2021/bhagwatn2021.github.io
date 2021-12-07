@@ -9,7 +9,7 @@ keywords: statistics, data analytics
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">Resume</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/Neel_Bhagwat_Resume.pdf">Resume</a></li>
           <li><a href="https://github.com/bhagwatn2021">Github</a></li>
           <li><a href="https://www.linkedin.com/in/neel-b-96bb69128/">LinkedIn</a></li>
       </ul>
