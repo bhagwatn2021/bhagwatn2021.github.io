@@ -19,6 +19,9 @@ description: Ben Harvey's publications
     </div>
 </div>
 
+# COMING SOON!!!
+
+I am currently working on some research on COVID-19 vaccination disparities, and will put up publications as they are published. 
 
 #### <a name="book"></a>book
 
@@ -26,7 +29,7 @@ description: Ben Harvey's publications
 ---
 
 #### <a name="articles"></a>journal articles
-
+[COVID-19 Vaccine Demographic Analysis](https://medium.com/@bhagwatn2021/covid-vaccine-demographic-analysis-c150be376e5f)
 ---
 
 
