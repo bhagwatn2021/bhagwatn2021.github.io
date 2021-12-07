@@ -20,8 +20,16 @@ description: Neel bhagwat is a Masters' student in Data Analytics at the George 
 ##### The George Washington University 
 ###### BS in COmputer Science - August 2017 to May 2021
 
-#### <a name="resume"></a>cv and resume
-[Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Neel_Bhagwat_Resume.pdf)
+#### <a name="resume"></a>resume and social media
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="{{ BASE_PATH }}/assets/Neel_Bhagwat_Resume.pdf">Resume</a></li>
+          <li><a href="https://github.com/bhagwatn2021">Github</a></li>
+          <li><a href="https://www.linkedin.com/in/neel-b-96bb69128/">LinkedIn</a></li>
+      </ul>
+  </div>
+</div>`
 
 ---
 
