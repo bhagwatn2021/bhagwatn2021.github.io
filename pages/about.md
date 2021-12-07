@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-description: Benjamin Harvey is...
+description: Neel bhagwat is a Masters' student in Data Analytics at the George Washington University. He is interested in policy research, hoping to use his data-driven mindset to advocate for policy change and hold politicians accountable. 
 ---
 
 #### <a name="previousposition"></a>previous positions
@@ -21,7 +21,7 @@ description: Benjamin Harvey is...
 ###### BS in COmputer Science - August 2017 to May 2021
 
 #### <a name="resume"></a>cv and resume
-[Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/bsharvey_cv.pdf)
+[Resume ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Neel_Bhagwat_Resume.pdf)
 
 ---
 
