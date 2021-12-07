@@ -11,7 +11,8 @@ description: Neel bhagwat is a Masters' student in Data Analytics at the George 
           <li><a href="https://www.linkedin.com/in/neel-b-96bb69128/">LinkedIn</a></li>
       </ul>
   </div>
-</div>`
+</div>
+
 #### <a name="previousposition"></a>previous positions
 
 ##### Amazon Web Services 
