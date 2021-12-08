@@ -43,13 +43,13 @@ Koalas is a Python API that provides support for the Pandas API on a distributed
 
 ### <a name="deeplearning"></a>deep learning
 #### <a name="qtl"></a>[tensorflow](http://www.rqtl.org)
-{Add description of example an library here}
+TensorFlow is a framework for users to build and deploy various machine learning tasks. It provides support for Python, and has a hub to deploy and integrate models. 
 
 [tensorflow example](http://groups.google.com/group/Rqtl-disc)
 [tensorflow repository](http://groups.google.com/group/Rqtl-disc)
 
 #### <a name="qtl"></a>[keras](http://www.rqtl.org)
-{Add description of example an library here}
+Keras is a deep learning model framework for users to build and train neural networks, and it has more support for Python. 
 
 [keras example](http://groups.google.com/group/Rqtl-disc)
 [keras repository](http://groups.google.com/group/Rqtl-disc)
@@ -57,45 +57,23 @@ Koalas is a Python API that provides support for the Pandas API on a distributed
 ---
 
 ### <a name="machinelearning"></a>machine learning
-{Add description of example an library here}
-
 #### <a name="qtl"></a>[sci-kit-learn](http://www.rqtl.org)
-{Add description of example an library here}
+Sci-Kit Learn is a machine learning and statistical library that contains a large collection of statistical models with large support for Python.
 
 [scikit-learn](http://groups.google.com/group/Rqtl-disc)
 [scikit-learn](http://groups.google.com/group/Rqtl-disc)
-
----
-
-### <a name="networkanalysis"></a>network analysis
-#### <a name="qtl"></a>[networkx](http://www.rqtl.org)
-{Add description of example an library here}
-
-[networkx example](http://groups.google.com/group/Rqtl-disc)
-[networkx repository](http://groups.google.com/group/Rqtl-disc)
-
 
 ---
 
 ### <a name="scientificcomputing"></a>scientific computing
 #### <a name="qtl"></a>[numpy](http://www.rqtl.org)
-{Add description of example an library here}
+Numpy is a Python library that provides support for large-scale data processing, and serves as the base datatype for numerous Python data processing libraries. 
 
 [numpy examples](http://groups.google.com/group/Rqtl-disc)
 [numpy repository](http://groups.google.com/group/Rqtl-disc)
 
-
----
-
-### <a name="statisticalanalysis"></a>statistic alanalysis
-#### <a name="qtl"></a>[statsmodels](http://www.rqtl.org)
-{Add description of example an library here}
-
-[statsmodels example](http://groups.google.com/group/Rqtl-disc)
-[statsmodels repository](http://groups.google.com/group/Rqtl-disc)
-
 #### <a name="qtl"></a>[R](http://www.rqtl.org)
-{Add description of example an library here}
+Coming soon!!!
 
 [statsmodels example](http://groups.google.com/group/Rqtl-disc)
 [statsmodels repository](http://groups.google.com/group/Rqtl-disc)
@@ -119,13 +97,6 @@ Koalas is a Python API that provides support for the Pandas API on a distributed
 [matpilotlib example](http://groups.google.com/group/Rqtl-disc)
 [matpilotlib repository](http://groups.google.com/group/Rqtl-disc)
 
-
-#### <a name="qtl"></a>[seaborn](http://www.rqtl.org)
-{Add description of example an library here}
-
-[seaborn example](http://groups.google.com/group/Rqtl-disc)
-[seaborn repository](http://groups.google.com/group/Rqtl-disc)
-
 ---
 
 ### <a name="webscraping"></a>web scraping
@@ -134,24 +105,3 @@ Koalas is a Python API that provides support for the Pandas API on a distributed
 
 [beautifulsoup example](http://groups.google.com/group/Rqtl-disc)
 [beautifulsoup repository](http://groups.google.com/group/Rqtl-disc)
-
-
-#### <a name="qtl"></a>[tweepy](http://www.rqtl.org)
-{Add description of example an library here}
-
-[scrapy example](http://groups.google.com/group/Rqtl-disc)
-[scrapy repository](http://groups.google.com/group/Rqtl-disc)
-
-#### <a name="qtl"></a>[scrapy](http://www.rqtl.org)
-{Add description of example an library here}
-
-[scrapy example](http://groups.google.com/group/Rqtl-disc)
-[scrapy repository](http://groups.google.com/group/Rqtl-disc)
-
-
----
-### <a name="R Packages"></a>R Packages
-#### <a name="qtl"></a>[R](http://www.r-project.org)
-TBD
-
-
