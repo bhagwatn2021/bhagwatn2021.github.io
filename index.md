@@ -34,7 +34,7 @@ keywords: statistics, data analytics
         al. (2016) Fig 4" title="COVID vaccination rate vs. white population per county in GOP-leaning counties"/>
   </td>
   <td class="right">
-   <img src="Hate-tweets-congress-vaccinations.png" alt="Tian et al. (2015) Fig 4" title="Hate crimes versus vaccination rates by county"/>
+   <img src="assets/publpics/Hate-tweets-congress-vaccinations.png" alt="Tian et al. (2015) Fig 4" title="Hate crimes versus vaccination rates by county"/>
   </td>
 </tr>
 </table>
