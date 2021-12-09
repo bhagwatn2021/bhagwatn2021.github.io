@@ -38,14 +38,6 @@ In this course, I learned about various analytics packages for Python such as Sk
 
 ---
 
-### <a name="shortcourses"></a>Short courses
-
----
-
-### <a name="misc"></a>Miscellaneous lectures
-
----
-
 ### <a name="old"></a>Former courses
 
 #### [Senior Design](https://www2.seas.gwu.edu/~pfrank/classes/cs4243-44w/class-info.html) (CSCI 4243W + CSCI 4244; Fall, 2020 - Spring, 2021 at George Washington University)
