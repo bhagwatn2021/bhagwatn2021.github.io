@@ -21,27 +21,20 @@ keywords: statistics, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
-    </a>
+        <img src="assets/publpics/White-vaccinations.png" alt="R/qtlcharts example" title="COVID vaccination rate vs. white population per county"/>
   </td>
   <td class="right">
-    <a href="pages/publpics/tian2016_fig4.html">
-        <img src="assets/publpics/tian2016_fig4.png" alt="Tian et
-        al. (2016) Fig 4" title="Tian et al. (2016) Fig 4"/>
-    </a>
+        <img src="assets/publpics/Black-vaccinations-scatter-Democratic.png" alt="Tian et
+        al. (2016) Fig 4" title="COVID vaccination rate vs. white population per county in Democratic-leaning counties"/>
   </td>
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
-    </a>
+   <img src="assets/publpics/Black-vaccinations-scatter-GOP.png" alt="Tian et
+        al. (2016) Fig 4" title="COVID vaccination rate vs. white population per county in GOP-leaning counties"/>
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
-    </a>
+        <img src="Hate-Crime-Political-Orientation.png" alt="Tian et al. (2015) Fig 4" title="Hate crimes versus. political orientiation by county"/>
   </td>
 </tr>
 </table>
