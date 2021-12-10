@@ -1,7 +1,7 @@
 ---
 layout: page
-title: labs & assignments
-description: Neel Bhagwat's assignments
+title: projects
+description: Neel Bhagwat's projects
 ---
 
 COMING SOON!!!
