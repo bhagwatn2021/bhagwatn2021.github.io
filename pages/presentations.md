@@ -13,7 +13,7 @@ Slides: [![ppt](icons16/ppt-icon.png)](https://docs.google.com/presentation/d/1R
 ---
 
 #### COVID Vaccine Demographic and Political Analysis 
-Slides: [![ppt](icons16/ppt-icon.png)](hhttps://docs.google.com/presentation/d/1tgphcqdYdaXFXOhqs30001ib_QfN6UtD2dE96GIHu34/edit?usp=sharing)
+Slides: [![ppt](icons16/ppt-icon.png)](https://docs.google.com/presentation/d/1tgphcqdYdaXFXOhqs30001ib_QfN6UtD2dE96GIHu34/edit?usp=sharing)
 
 ---
 
